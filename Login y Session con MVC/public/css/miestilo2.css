@@ -1,0 +1,44 @@
+body{
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    /* height: 100vh; */
+    /* width: 100vw; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    background: linear-gradient(90deg,rgb(55, 50, 100), rgb(11, 12, 61));
+}
+nav{
+    height: 4rem;
+}
+.navbar{
+    background-color: rgb(85, 0, 101);
+    /* width: 30rem; */
+    /* height: 30rem; */
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.carousel, .carousel-inner, .carousel-control-prev, .carousel-control-next{
+    height: 80vh;
+}
+.container{
+    /* background-color: antiquewhite; */
+    width: 100%;
+    margin: auto;
+}
+.row{
+    /* background-color: antiquewhite; */
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    border-radius: 0px;
+}
+h1{
+    text-align: center;
+    color: white;
+}

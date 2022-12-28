@@ -1,0 +1,25 @@
+nav{
+    height: 4rem;
+}
+.navbar{
+    background-color: rgb(85, 0, 101);
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+#soporte{
+    /* background-color: aliceblue; */
+    background: linear-gradient(90deg,rgb(50, 47, 71), rgb(11, 12, 61));
+    /* height: 100vh; */
+    /* width: 100vw; */
+}
+.container{
+    position: relative;
+    top: 10rem;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}

@@ -1,0 +1,20 @@
+body{
+    /* background-image: url("public/css/trigo_fondo.jpg"); */
+    /* background-position: center; */
+    /* background-size: cover; */
+    height: 100vh;
+    width: 100vw;
+    /* background-repeat: no-repeat; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg,rgb(224, 155, 155), rgb(146, 28, 28));
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    padding: 2rem;
+    border-radius: 15px;
+}
+.navbar-brand{
+    color: white;
+}

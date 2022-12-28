@@ -1,0 +1,51 @@
+.container{
+    /* background-color: aqua; */
+    width: 60%;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.card{
+    margin: 1rem 0px;
+}
+.titulo{
+    background-color: antiquewhite;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    margin-top: 4rem;
+}
+.navbar{
+    background-color: rgb(85, 0, 101);
+}
+.navbar-brand, .nav-link{
+    color: white;
+}
+footer{
+    background-color: rgb(104, 5, 134);
+    height: 8rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    /* margin-top: 6.9rem; */
+}
+footer > ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 20vw;
+    /* background-color: aliceblue; */
+}
+footer > ul > li > a{
+    text-decoration: none;
+}
+footer > ul > li > a > img{
+    width: 30px;
+    height: 30px;
+}
